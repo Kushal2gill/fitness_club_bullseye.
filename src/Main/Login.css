@@ -1,0 +1,18 @@
+.login {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+}
+
+.login_form_left {
+  display: flex;
+  flex-direction: column;
+  width: 250%;
+  background-color: rgb(183, 190, 196);
+  margin-top: 63px;
+  padding: 15px;
+}
+.btn btn-success {
+  margin-top: 40px;
+}

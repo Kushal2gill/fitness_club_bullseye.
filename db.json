@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": 101,
+      "ename": "King",
+      "salary": 50000
+    },
+    {
+      "id": 102,
+      "ename": "Smith",
+      "salary": 45000
+    },
+    {
+      "id": 103,
+      "ename": "Tom",
+      "salary": 30000
+    },
+    {
+      "id": 104,
+      "ename": "Scott",
+      "salary": 20000
+    },
+    {
+      "id": 105,
+      "ename": "rini",
+      "salary": 35000
+    },
+    {
+      "ename": "payal",
+      "salary": 35000,
+      "id": 106
+    },
+    {
+      "ename": "payal",
+      "salary": 35000,
+      "id": 107
+    }
+  ]
+}

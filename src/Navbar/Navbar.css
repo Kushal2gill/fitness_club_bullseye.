@@ -1,0 +1,9 @@
+.navbar {
+  height: 10%;
+  background-color: black;
+  color: white;
+  justify-content: center;
+  text-align: center;
+  position: sticky;
+  top: 0%;
+}
